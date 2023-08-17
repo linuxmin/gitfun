@@ -3,10 +3,12 @@ Git is very wonderful
 
 Matze is doing some changes in Intellij
 
-This is important
+This is important!
 
 Harb is doing some changes here.
 
 Harb is adding some more changes here.
 
-Nigeria best country! Greetings to the peasants!
+Nigeria best country? Greetings to the peasants!
+
+Fixed some stuff.
